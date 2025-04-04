@@ -1,0 +1,970 @@
+import React from "react";
+import { MenuBar } from "./MenuBar";
+import adobeXd from "./adobe-XD.png";
+import ellipse42 from "./ellipse-42.svg";
+import ellipse56 from "./ellipse-56.svg";
+import ellipse58 from "./ellipse-58.svg";
+import ellipse59 from "./ellipse-59.svg";
+import ellipse60 from "./ellipse-60.svg";
+import ellipse62 from "./ellipse-62.svg";
+import ellipse64 from "./ellipse-64.svg";
+import email2 from "./email-2.png";
+import email from "./email.png";
+import flyingBirdsInTheDistance2 from "./flying-birds-in-the-distance-2.png";
+import flyingBirdsInTheDistance3 from "./flying-birds-in-the-distance-3.png";
+import flyingBirdsInTheDistance4 from "./flying-birds-in-the-distance-4.png";
+import flyingBirdsInTheDistance5 from "./flying-birds-in-the-distance-5.png";
+import flyingBirdsInTheDistance from "./flying-birds-in-the-distance.png";
+import image from "./image.png";
+import image1 from "./image.svg";
+import line124 from "./line-124.svg";
+import line137 from "./line-137.svg";
+import line138 from "./line-138.svg";
+import line236 from "./line-236.svg";
+import linkedin22 from "./linkedin-2-2.png";
+import linkedin2 from "./linkedin-2.png";
+import microsoftExcel from "./microsoft-excel.png";
+import microsoftPublisher from "./microsoft-publisher.png";
+import microsoftWord from "./microsoft-word.png";
+import phone2 from "./phone-2.png";
+import phone from "./phone.png";
+import rectangle512 from "./rectangle-51-2.png";
+import rectangle513 from "./rectangle-51-3.png";
+import rectangle51 from "./rectangle-51.png";
+import rectangle522 from "./rectangle-52-2.png";
+import rectangle523 from "./rectangle-52-3.png";
+import rectangle52 from "./rectangle-52.png";
+import rectangle532 from "./rectangle-53-2.png";
+import rectangle533 from "./rectangle-53-3.png";
+import rectangle53 from "./rectangle-53.png";
+import rectangle542 from "./rectangle-54-2.png";
+import rectangle543 from "./rectangle-54-3.png";
+import rectangle54 from "./rectangle-54.png";
+import rectangle562 from "./rectangle-56-2.png";
+import rectangle563 from "./rectangle-56-3.png";
+import rectangle56 from "./rectangle-56.png";
+import rectangle572 from "./rectangle-57-2.png";
+import rectangle573 from "./rectangle-57-3.png";
+import rectangle57 from "./rectangle-57.png";
+import rectangle582 from "./rectangle-58-2.png";
+import rectangle583 from "./rectangle-58-3.png";
+import rectangle58 from "./rectangle-58.png";
+import rectangle592 from "./rectangle-59-2.png";
+import rectangle593 from "./rectangle-59-3.png";
+import rectangle59 from "./rectangle-59.png";
+import rectangle602 from "./rectangle-60-2.png";
+import rectangle603 from "./rectangle-60-3.png";
+import rectangle60 from "./rectangle-60.png";
+import rectangle304 from "./rectangle-304.png";
+import rectangle305 from "./rectangle-305.png";
+import rightArrow from "./right-arrow.png";
+import "./style.css";
+import vector3 from "./vector-3.svg";
+import whiteClouds2 from "./white-clouds-2.png";
+import whiteClouds3 from "./white-clouds-3.png";
+import whiteClouds4 from "./white-clouds-4.png";
+import whiteClouds5 from "./white-clouds-5.png";
+import whiteClouds6 from "./white-clouds-6.png";
+import whiteClouds7 from "./white-clouds-7.png";
+import whiteClouds8 from "./white-clouds-8.png";
+import whiteClouds from "./white-clouds.png";
+
+export const Frame = () => {
+  return (
+    <div className="frame">
+      <div className="div-2">
+        <div className="rectangle" />
+
+        <div className="overlap">
+          <div className="overlap-group-wrapper">
+            <div className="overlap-group">
+              <div className="rectangle-2" />
+
+              <div className="div-3">
+                <div className="text-wrapper-7">WORK EXPERIENCE</div>
+
+                <div className="div-4">
+                  <div className="div-5">
+                    <div className="ellipse-wrapper">
+                      <div className="ellipse" />
+                    </div>
+
+                    <div className="div-6">
+                      <div className="ellipse-2" />
+
+                      <div className="ellipse-3" />
+
+                      <img className="line" alt="Line" src={line137} />
+                    </div>
+                  </div>
+
+                  <div className="div-7">
+                    <div className="div-8">
+                      <div className="div-9">
+                        <div className="text-wrapper-8">
+                          Packaged App Development Analyst
+                        </div>
+
+                        <p className="p">
+                          Accenture - Hyderabad (2024 - Present)
+                        </p>
+                      </div>
+
+                      <p className="text-wrapper-9">
+                        As an Analyst, UI/UX Designer specializing in Salesforce
+                        Health Cloud, designing intuitive user interfaces based
+                        on client requirements while ensuring alignment with
+                        healthcare needs through research-driven solutions.
+                        <br />
+                        Collaborated with Business Analysts (BAs) to gather
+                        requirements in each sprint, designing 2-3 variations
+                        per user story while balancing Salesforce Health Cloud
+                        standards and client needs.
+                        <br />
+                        Conducted handover sessions with developers to ensure
+                        accurate implementation of finalized designs,
+                        maintaining consistency with wireframes.
+                        <br />
+                        Reviewed developer demos at the end of each sprint,
+                        identifying any design mismatches and ensuring adherence
+                        to the approved wireframes.
+                      </p>
+                    </div>
+
+                    <div className="div-10">
+                      <div className="div-9">
+                        <div className="text-wrapper-8">
+                          Packaged App Development Associate
+                        </div>
+
+                        <p className="p">Accenture - Hyderabad (2022 - 2024)</p>
+                      </div>
+
+                      <p className="text-wrapper-9">
+                        Supported UI/UX design for Salesforce Health Cloud,
+                        contributing to intuitive interface designs while
+                        ensuring alignment with client and healthcare
+                        requirements.
+                        <br />
+                        Worked on split user stories, collaborating with senior
+                        designers to create multiple design variations and
+                        refine solutions based on feedback.
+                        <br />
+                        Assisted in developer handovers, ensuring smooth
+                        implementation by reviewing designs with developers,
+                        providing feedback, and maintaining consistency with
+                        wireframes.
+                        <br />
+                        Gained expertise in Salesforce Lightning Design System
+                        (SLDS) to create designs that seamlessly integrate with
+                        Salesforce Health Cloud standards.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="text-wrapper-10">PawPal Home Service App</div>
+
+          <div className="about-me-frame">
+            <div className="div-11">
+              <div className="text-wrapper-11">ABOUT ME</div>
+
+              <div className="div-8">
+                <p className="hello-i-am-a-UI-UX">
+                  Hello,
+                  <br />I am a UI/UX designer with 2 and a half years of
+                  experience, passionate about creating intuitive, user-centered
+                  designs that solve real-world problems. My experience in the
+                  Salesforce domain has allowed me to transform complex
+                  requirements into seamless and engaging user interfaces. I
+                  specialize in design thinking, delivering impactful solutions
+                  while always prioritizing user experience and business goals.
+                  I thrive in collaborative environments, constantly improving
+                  my skills and staying updated with the latest design trends.
+                  <br /> I believe in the power of continuous learning and
+                  actively seek opportunities to grow both as a designer and as
+                  a person. I approach each project with a keen eye for detail
+                  and a focus on creating meaningful experiences. My goal is to
+                  craft designs that not only look great but also truly resonate
+                  with users and provide value to businesses.
+                </p>
+
+                <img className="img" alt="Line" src={line124} />
+              </div>
+
+              <div className="div-12">
+                <div className="group">
+                  <div className="phone-wrapper">
+                    <img className="phone" alt="Phone" src={phone2} />
+                  </div>
+
+                  <div className="email-wrapper">
+                    <img className="img-2" alt="Email" src={email2} />
+                  </div>
+
+                  <div className="linkedin-wrapper">
+                    <img className="img-2" alt="Linkedin" src={linkedin22} />
+                  </div>
+                </div>
+
+                <div className="div-13">
+                  <div className="text-wrapper-12">8919332199</div>
+
+                  <a
+                    className="text-wrapper-13"
+                    href="mailto:srivalligaraga66@gmail.com"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    srivalligaraga66@gmail.com
+                  </a>
+
+                  <a
+                    className="text-wrapper-13"
+                    href="https://www.linkedin.com/in/srivalli-garaga"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    Srivalli Garaga
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="group-wrapper">
+            <div className="overlap-wrapper">
+              <div className="overlap-2">
+                <div className="overlap-3">
+                  <div className="text-wrapper-14">EDUCATION</div>
+
+                  <div className="group-2">
+                    <div className="div-wrapper">
+                      <div className="ellipse" />
+                    </div>
+
+                    <div className="overlap-group-2">
+                      <img className="line-2" alt="Line" src={line138} />
+
+                      <div className="ellipse-4" />
+
+                      <div className="ellipse-5" />
+
+                      <div className="ellipse-6" />
+
+                      <div className="ellipse-7" />
+                    </div>
+                  </div>
+
+                  <div className="text-wrapper-15">Bachelor’s Degree - 80%</div>
+
+                  <p className="text-wrapper-16">
+                    PVPSIT - Information Technology (2018 -2022)
+                  </p>
+
+                  <div className="text-wrapper-17">Intermediate - 89.6%</div>
+
+                  <p className="text-wrapper-18">
+                    Narayana Jr College - MPC (2016 -2018)
+                  </p>
+
+                  <div className="text-wrapper-19">10th Standard - 82%</div>
+
+                  <p className="text-wrapper-20">
+                    Sri Chaitanya School - SSC (2015 - 2016)
+                  </p>
+
+                  <p className="text-wrapper-21">
+                    I completed my 10th standard in SSC, where I developed a
+                    strong work ethic and a passion for learning. This phase
+                    laid the groundwork for my academic and professional growth.
+                  </p>
+
+                  <p className="text-wrapper-22">
+                    I completed my Intermediate education in MPC, which enhanced
+                    my logical reasoning skills, later applied to my design and
+                    technology career.
+                  </p>
+
+                  <p className="text-wrapper-23">
+                    I earned my B.Tech in Information Technology from Potluri
+                    Vera Prasad Institute of Technology, gaining a strong
+                    foundation in computer science, programming, and software
+                    development.
+                  </p>
+                </div>
+
+                <div className="overlap-4">
+                  <div className="text-wrapper-24">CERTIFICATIONS</div>
+
+                  <div className="text-wrapper-25">
+                    User Experience Designer
+                  </div>
+
+                  <div className="text-wrapper-26">Administrator</div>
+
+                  <div className="text-wrapper-27">
+                    Salesforce Certified (2024)
+                  </div>
+
+                  <p className="earned-salesforce">
+                    Earned Salesforce User Experience Designer certification,
+                    specializing in creating seamless, user-friendly interfaces
+                    that enhance productivity and user satisfaction across
+                    Salesforce platforms.
+                    <br />
+                    Applied design thinking and user research to deliver
+                    impactful, scalable designs, with hands-on experience in
+                    Salesforce Health Cloud.
+                  </p>
+
+                  <div className="text-wrapper-28">
+                    Salesforce Certified (2023)
+                  </div>
+
+                  <p className="earned-salesforce-2">
+                    Earned Salesforce Administrator certification, gaining a
+                    deep understanding of Salesforce CRM to design user-centric
+                    interfaces that align with business needs.
+                    <br />
+                    Leveraged Salesforce knowledge to create intuitive designs
+                    that enhance productivity, ensuring seamless user
+                    experiences and driving user engagement.
+                  </p>
+
+                  <div className="group-3">
+                    <div className="div-wrapper">
+                      <div className="ellipse" />
+                    </div>
+
+                    <div className="overlap-5">
+                      <img className="line-3" alt="Line" src={line236} />
+
+                      <div className="ellipse-8" />
+
+                      <div className="ellipse-9" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="overlap-wrapper-2">
+            <div className="overlap-6">
+              <div className="group-4">
+                <div className="overlap-7">
+                  <div className="rectangle-2" />
+
+                  <div className="rectangle-3" />
+
+                  <div className="text-wrapper-29">MY WORK</div>
+
+                  <p className="text-wrapper-30">
+                    PawPal is a user-friendly home service app designed to
+                    simplify pet care for busy pet parents. From booking at-home
+                    vet visits to managing health records and setting medication
+                    reminders, PawPal ensures that your furry friends receive
+                    the best care without the stress of clinic visits. The app
+                    provides seamless appointment scheduling, real-time
+                    communication with vets, and personalized pet health
+                    tracking, making pet parenting more convenient and
+                    stress-free.
+                  </p>
+
+                  <div className="overlap-wrapper-3">
+                    <div className="overlap-8">
+                      <div className="group-5">
+                        <div className="overlap-group-3">
+                          <img
+                            className="rectangle-4"
+                            alt="Rectangle"
+                            src={rectangle51}
+                          />
+
+                          <img
+                            className="rectangle-5"
+                            alt="Rectangle"
+                            src={rectangle52}
+                          />
+
+                          <img
+                            className="rectangle-6"
+                            alt="Rectangle"
+                            src={rectangle59}
+                          />
+
+                          <img
+                            className="rectangle-7"
+                            alt="Rectangle"
+                            src={rectangle53}
+                          />
+
+                          <img
+                            className="rectangle-8"
+                            alt="Rectangle"
+                            src={rectangle56}
+                          />
+
+                          <img
+                            className="rectangle-9"
+                            alt="Rectangle"
+                            src={rectangle57}
+                          />
+
+                          <img
+                            className="rectangle-10"
+                            alt="Rectangle"
+                            src={rectangle54}
+                          />
+
+                          <img
+                            className="rectangle-11"
+                            alt="Rectangle"
+                            src={rectangle60}
+                          />
+
+                          <img
+                            className="rectangle-12"
+                            alt="Rectangle"
+                            src={rectangle58}
+                          />
+                        </div>
+                      </div>
+
+                      <div className="group-6">
+                        <div className="overlap-group-3">
+                          <img
+                            className="rectangle-4"
+                            alt="Rectangle"
+                            src={rectangle512}
+                          />
+
+                          <img
+                            className="rectangle-5"
+                            alt="Rectangle"
+                            src={rectangle522}
+                          />
+
+                          <img
+                            className="rectangle-6"
+                            alt="Rectangle"
+                            src={rectangle592}
+                          />
+
+                          <img
+                            className="rectangle-7"
+                            alt="Rectangle"
+                            src={rectangle532}
+                          />
+
+                          <img
+                            className="rectangle-8"
+                            alt="Rectangle"
+                            src={rectangle562}
+                          />
+
+                          <img
+                            className="rectangle-9"
+                            alt="Rectangle"
+                            src={rectangle572}
+                          />
+
+                          <img
+                            className="rectangle-10"
+                            alt="Rectangle"
+                            src={rectangle542}
+                          />
+
+                          <img
+                            className="rectangle-11"
+                            alt="Rectangle"
+                            src={rectangle602}
+                          />
+
+                          <img
+                            className="rectangle-12"
+                            alt="Rectangle"
+                            src={rectangle582}
+                          />
+                        </div>
+                      </div>
+
+                      <div className="group-7">
+                        <div className="overlap-group-3">
+                          <img
+                            className="rectangle-4"
+                            alt="Rectangle"
+                            src={rectangle513}
+                          />
+
+                          <img
+                            className="rectangle-5"
+                            alt="Rectangle"
+                            src={rectangle523}
+                          />
+
+                          <img
+                            className="rectangle-6"
+                            alt="Rectangle"
+                            src={rectangle593}
+                          />
+
+                          <img
+                            className="rectangle-7"
+                            alt="Rectangle"
+                            src={rectangle533}
+                          />
+
+                          <img
+                            className="rectangle-8"
+                            alt="Rectangle"
+                            src={rectangle563}
+                          />
+
+                          <img
+                            className="rectangle-9"
+                            alt="Rectangle"
+                            src={rectangle573}
+                          />
+
+                          <img
+                            className="rectangle-10"
+                            alt="Rectangle"
+                            src={rectangle543}
+                          />
+
+                          <img
+                            className="rectangle-11"
+                            alt="Rectangle"
+                            src={rectangle603}
+                          />
+
+                          <img
+                            className="rectangle-12"
+                            alt="Rectangle"
+                            src={rectangle583}
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="text-wrapper-31">PawPal Home Service App</div>
+                </div>
+              </div>
+
+              <div className="div-14">
+                <div className="text-wrapper-32">More About Project</div>
+
+                <img
+                  className="right-arrow"
+                  alt="Right arrow"
+                  src={rightArrow}
+                />
+              </div>
+            </div>
+          </div>
+
+          <div className="overlap-wrapper-4">
+            <div className="overlap-group">
+              <div className="rectangle-2" />
+
+              <div className="text-wrapper-33">User Centered Design</div>
+
+              <div className="group-8">
+                <div className="overlap-group-4">
+                  <div className="DESIGN-SOFT-SKILLS">
+                    DESIGN &amp; SOFT SKILLS
+                  </div>
+
+                  <div className="text-wrapper-34">Design Thinking</div>
+
+                  <div className="responsive-adaptive">
+                    Responsive &amp; Adaptive Design
+                  </div>
+
+                  <div className="text-wrapper-35">
+                    Human Computer Interaction
+                  </div>
+
+                  <div className="rectangle-wrapper">
+                    <div className="rectangle-13" />
+                  </div>
+
+                  <div className="overlap-9">
+                    <div className="rectangle-14" />
+                  </div>
+
+                  <div className="overlap-10">
+                    <div className="rectangle-15" />
+                  </div>
+
+                  <div className="overlap-11">
+                    <div className="rectangle-16" />
+                  </div>
+
+                  <div className="text-wrapper-36">Communication</div>
+
+                  <div className="text-wrapper-37">Problem Solving</div>
+
+                  <div className="text-wrapper-38">Adaptability</div>
+
+                  <div className="text-wrapper-39">Time Management</div>
+
+                  <div className="overlap-12">
+                    <div className="rectangle-15" />
+                  </div>
+
+                  <div className="overlap-13">
+                    <div className="rectangle-14" />
+                  </div>
+
+                  <div className="overlap-14">
+                    <div className="rectangle-15" />
+                  </div>
+
+                  <div className="overlap-15">
+                    <div className="rectangle-14" />
+                  </div>
+                </div>
+              </div>
+
+              <div className="group-9">
+                <div className="overlap-16">
+                  <div className="text-wrapper-40">SOFTWARE SKILLS</div>
+
+                  <div className="group-10">
+                    <div className="overlap-group-5">
+                      <img
+                        className="ellipse-10"
+                        alt="Ellipse"
+                        src={ellipse42}
+                      />
+
+                      <img
+                        className="rectangle-17"
+                        alt="Rectangle"
+                        src={rectangle304}
+                      />
+                    </div>
+
+                    <div className="text-wrapper-41">Axure RP</div>
+                  </div>
+
+                  <div className="group-11">
+                    <div className="ellipse-10">
+                      <img
+                        className="rectangle-18"
+                        alt="Rectangle"
+                        src={rectangle305}
+                      />
+
+                      <img
+                        className="ellipse-10"
+                        alt="Ellipse"
+                        src={ellipse59}
+                      />
+
+                      <img
+                        className="ellipse-10"
+                        alt="Ellipse"
+                        src={ellipse60}
+                      />
+                    </div>
+
+                    <div className="text-wrapper-42">Figma</div>
+                  </div>
+
+                  <div className="group-12">
+                    <div className="overlap-17">
+                      <img
+                        className="ellipse-10"
+                        alt="Ellipse"
+                        src={ellipse56}
+                      />
+
+                      <img className="adobe-XD" alt="Adobe XD" src={adobeXd} />
+                    </div>
+
+                    <div className="text-wrapper-43">Adobe XD</div>
+                  </div>
+
+                  <div className="group-13">
+                    <div className="overlap-18">
+                      <img
+                        className="ellipse-10"
+                        alt="Ellipse"
+                        src={ellipse62}
+                      />
+
+                      <img
+                        className="microsoft-word"
+                        alt="Microsoft word"
+                        src={microsoftWord}
+                      />
+                    </div>
+
+                    <div className="text-wrapper-41">MS Word</div>
+                  </div>
+
+                  <div className="group-14">
+                    <div className="overlap-19">
+                      <img
+                        className="ellipse-10"
+                        alt="Ellipse"
+                        src={ellipse58}
+                      />
+
+                      <img
+                        className="microsoft-excel"
+                        alt="Microsoft excel"
+                        src={microsoftExcel}
+                      />
+                    </div>
+
+                    <div className="text-wrapper-41">MS Excel</div>
+                  </div>
+
+                  <div className="group-15">
+                    <div className="overlap-20">
+                      <img
+                        className="ellipse-10"
+                        alt="Ellipse"
+                        src={ellipse64}
+                      />
+
+                      <img
+                        className="microsoft-publisher"
+                        alt="Microsoft publisher"
+                        src={microsoftPublisher}
+                      />
+                    </div>
+
+                    <div className="text-wrapper-44">Power Point</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="rectangle-19" />
+
+        <div className="rectangle-20" />
+
+        <div className="group-wrapper-2">
+          <div className="group-16">
+            <div className="overlap-21">
+              <div className="text-wrapper-45">8919332199</div>
+
+              <a
+                className="text-wrapper-46"
+                href="https://www.linkedin.com/in/srivalli-garaga"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                Srivalli Garaga
+              </a>
+
+              <a
+                className="text-wrapper-47"
+                href="mailto:srivalligaraga66@gmail.com"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                srivalligaraga66@gmail.com
+              </a>
+
+              <div className="text-wrapper-48">SRIVALLI GARAGA</div>
+
+              <div className="text-wrapper-49">UI/UX Designer</div>
+
+              <div className="text-wrapper-50">LETS CONNECT!</div>
+
+              <div className="text-wrapper-51">Hyderabad, Telangana</div>
+
+              <div className="group-17">
+                <div className="img-wrapper">
+                  <img className="phone-2" alt="Phone" src={phone} />
+                </div>
+
+                <div className="overlap-group-6">
+                  <img className="email" alt="Email" src={email} />
+                </div>
+
+                <div className="overlap-22">
+                  <img className="linkedin" alt="Linkedin" src={linkedin2} />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="text-wrapper-52">ABOUT ME</div>
+
+        <div className="overlap-23">
+          <div className="main">
+            <div className="overlap-24">
+              <img className="vector" alt="Vector" src={vector3} />
+
+              <div className="group-18">
+                <div className="overlap-group-7">
+                  <img
+                    className="white-clouds"
+                    alt="White clouds"
+                    src={whiteClouds2}
+                  />
+
+                  <img
+                    className="flying-birds-in-the"
+                    alt="Flying birds in the"
+                    src={flyingBirdsInTheDistance}
+                  />
+                </div>
+
+                <img
+                  className="white-clouds-2"
+                  alt="White clouds"
+                  src={whiteClouds}
+                />
+
+                <div className="overlap-25">
+                  <img
+                    className="white-clouds-3"
+                    alt="White clouds"
+                    src={whiteClouds3}
+                  />
+
+                  <img
+                    className="white-clouds-4"
+                    alt="White clouds"
+                    src={whiteClouds4}
+                  />
+
+                  <img
+                    className="flying-birds-in-the-2"
+                    alt="Flying birds in the"
+                    src={flyingBirdsInTheDistance2}
+                  />
+
+                  <img
+                    className="flying-birds-in-the-3"
+                    alt="Flying birds in the"
+                    src={image}
+                  />
+                </div>
+              </div>
+
+              <div className="frame-wrapper">
+                <div className="div-15">
+                  <div className="text-wrapper-53">SRIVALLI GARAGA</div>
+
+                  <div className="text-wrapper-54">UI/UX DESIGNER</div>
+
+                  <p className="text-wrapper-55">
+                    I craft seamless digital experiences by blending strategy,
+                    aesthetics, and user insights. My work focuses on creating
+                    intuitive designs that solve real problems and enhance
+                    usability. Explore my projects to see design in action!
+                  </p>
+
+                  <div className="div-wrapper-2">
+                    <div className="text-wrapper-32">View My Work</div>
+                  </div>
+
+                  <div className="div-wrapper-3">
+                    <div className="text-wrapper-56">Let’s Connect</div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="main-2">
+                <div className="overlap-26">
+                  <img className="vector-2" alt="Vector" src={image1} />
+
+                  <div className="group-19">
+                    <div className="overlap-group-7">
+                      <img
+                        className="white-clouds"
+                        alt="White clouds"
+                        src={whiteClouds5}
+                      />
+
+                      <img
+                        className="flying-birds-in-the"
+                        alt="Flying birds in the"
+                        src={flyingBirdsInTheDistance3}
+                      />
+                    </div>
+
+                    <img
+                      className="white-clouds-2"
+                      alt="White clouds"
+                      src={whiteClouds6}
+                    />
+
+                    <div className="overlap-25">
+                      <img
+                        className="white-clouds-3"
+                        alt="White clouds"
+                        src={whiteClouds7}
+                      />
+
+                      <img
+                        className="white-clouds-4"
+                        alt="White clouds"
+                        src={whiteClouds8}
+                      />
+
+                      <img
+                        className="flying-birds-in-the-2"
+                        alt="Flying birds in the"
+                        src={flyingBirdsInTheDistance4}
+                      />
+
+                      <img
+                        className="flying-birds-in-the-3"
+                        alt="Flying birds in the"
+                        src={flyingBirdsInTheDistance5}
+                      />
+                    </div>
+                  </div>
+
+                  <div className="frame-wrapper-2">
+                    <div className="div-15">
+                      <div className="text-wrapper-53">SRIVALLI GARAGA</div>
+
+                      <div className="text-wrapper-54">UI/UX DESIGNER</div>
+
+                      <p className="text-wrapper-55">
+                        I craft seamless digital experiences by blending
+                        strategy, aesthetics, and user insights. My work focuses
+                        on creating intuitive designs that solve real problems
+                        and enhance usability. Explore my projects to see design
+                        in action!
+                      </p>
+
+                      <div className="div-wrapper-2">
+                        <div className="text-wrapper-32">View My Work</div>
+                      </div>
+
+                      <div className="div-wrapper-3">
+                        <div className="text-wrapper-56">Let’s Connect</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <MenuBar className="menu-bar-instance" property1="default" />
+        </div>
+      </div>
+    </div>
+  );
+};
